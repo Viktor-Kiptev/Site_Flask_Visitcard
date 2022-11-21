@@ -15,7 +15,7 @@ def htms_page(page_name):
 def submit_form():
     if request.method == 'POST'
         data = request.form.to_dict()
-        p
+
 
 # @app.route('/index.html')
 # def main():
